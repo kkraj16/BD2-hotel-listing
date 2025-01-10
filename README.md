@@ -185,3 +185,8 @@ API Call:
 Expected Output:
 
 JSON of all hotels.
+
+
+
+Testing UI : 
+https://bd2-hotel-listing.vercel.app/
